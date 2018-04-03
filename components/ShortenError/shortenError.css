@@ -1,0 +1,13 @@
+.msgContainer {
+    background: #ffbea2;
+    font-family: Helvetica;
+    font-size: 12px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.msg {
+    padding: 20px;
+    color: rgb(148, 148, 148);
+}

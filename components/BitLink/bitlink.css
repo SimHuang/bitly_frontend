@@ -1,0 +1,45 @@
+.bitlinkContainer {
+    padding: 20px 0;
+    border-top: 1px solid #efeaea;
+    font-family: Helvetica;
+    font-size: 11px;
+}
+
+.bitlinkTitle {
+    color: #444444;
+    margin-bottom: 3px;
+}
+
+.bitlinkTitle:hover {
+    text-decoration: underline;
+}
+
+.bitlinkLong {
+    color: #9c9c9c;
+}
+
+.bitlinkLong:hover {
+    text-decoration: underline;
+}
+
+.shortbitlinkContainer{
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+
+.bitlinkShort {
+    color: #ee6123
+}
+
+.bitlinkStats {
+    color: #9c9c9c;
+    float: right;
+}
+
+.bitlinkStats:hover{
+    text-decoration: underline;
+}
+
+.bitlinkImage {
+    background-image: url('../../resources/images/click-icon.svg');
+}

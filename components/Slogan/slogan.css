@@ -1,0 +1,21 @@
+.slogan {
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 30px;
+}
+
+.slogan h1 {
+    padding: 0;
+    margin: 10px;
+}
+
+.smallSlogan {
+    font-size: 13px;
+}
+
+@media (max-width:480px) { 
+    .slogan{
+        margin: 0;
+    }
+}

@@ -1,0 +1,18 @@
+.bitlinkContainer {   
+    width: 682px;
+    background: #fff;
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bitlinks {
+    padding: 0 20px;
+}
+
+@media (max-width:480px) {
+    .bitlinkContainer{
+        width: 100%;
+    }
+}
