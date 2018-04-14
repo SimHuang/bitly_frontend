@@ -1,3 +1,5 @@
+This is a react based web application utilizing the bitly sdk.
+
 ---------------------------------------------------------
 HOW TO RUN:
 ---------------------------------------------------------
@@ -8,3 +10,4 @@ HOW TO RUN:
 3) Open a terminal and under the root project directory, execute the command 'npm install'. This will install all required dependencies to execute the project.
 
 4) Make sure port 8080 is not in user. In a terminal, under the root project directory launch the command 'npm start'. This should launch the project under a local server in chrome browser.
+
